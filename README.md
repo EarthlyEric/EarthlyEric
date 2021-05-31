@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EarthlyEric
+- � Hi, I’m @EarthlyEric
 -  I’m interested in Jave,Python,Html,Css,...
-..
+-  LOL
 
