@@ -3,6 +3,7 @@
 -  LOL
 # Best Repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EarthlyEric&repo=SIMPLE-CHAT&theme=tokyonight)](https://github.com/EarthlyEric/SIMPLE-CHAT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=busybox11&repo=NowPlaying-for-Spotify&theme=tokyonight)](https://github.com/busybox11/NowPlaying-for-Spotify)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EarthlyEric&repo=301-redirector&theme=tokyonight)](https://github.com/EarthlyEric/301-redirector)
 
 # Info
