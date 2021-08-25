@@ -1,5 +1,5 @@
 # Hi, I’m @EarthlyEric
--  I’m interested in Jave,Python,Html,Css,...
+-  I’m 15 years old student,from Taiwan.
 -  LOL
 # Best Repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EarthlyEric&repo=SIMPLE-CHAT&theme=tokyonight)](https://github.com/EarthlyEric/SIMPLE-CHAT)
