@@ -7,4 +7,4 @@
 # Info
 ![EarthlyEric's GitHub stats](https://github-readme-stats.vercel.app/api?username=EarthlyEric&show_icons=true&theme=blueberry)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EarthlyEric&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EarthlyEric&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
