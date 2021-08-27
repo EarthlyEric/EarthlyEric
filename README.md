@@ -6,7 +6,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EarthlyEric&repo=TYSH-News-WorkFlow&theme=tokyonight)](https://github.com/EarthlyEric/TYSH-News-WorkFlow)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EarthlyEric&repo=SpotifySaverGUI&theme=tokyonight)](https://github.com/EarthlyEric/SpotifySaverGUI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EarthlyEric&repo=The-Last-Nature-s-Song&theme=tokyonight)](https://github.com/EarthlyEric/The-Last-Nature-s-Song)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EarthlyEric&repo=Super_Mario_Bros_Pack_GUI&theme=tokyonight)(https://github.com/EarthlyEric/Super_Mario_Bros_Pack_GUI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EarthlyEric&repo=SuperMarioPackGUI&theme=tokyonight)](https://github.com/EarthlyEric/SuperMarioPackGUI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EarthlyEric&repo=301-redirector&theme=tokyonight)](https://github.com/EarthlyEric/301-redirector)
 
 # Best Repos(is Contributors)
