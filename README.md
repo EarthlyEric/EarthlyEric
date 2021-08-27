@@ -3,6 +3,7 @@
 -  LOL
 # Best Repos(is Owner)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EarthlyEric&repo=SIMPLE-CHAT&theme=tokyonight)](https://github.com/EarthlyEric/SIMPLE-CHAT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EarthlyEric&repo=TYSH-News-WorkFlow&theme=tokyonight)](https://github.com/EarthlyEric/TYSH-News-WorkFlow)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EarthlyEric&repo=301-redirector&theme=tokyonight)](https://github.com/EarthlyEric/301-redirector)
 
 # Best Repos(is Contributors)
