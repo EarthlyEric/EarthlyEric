@@ -8,6 +8,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EarthlyEric&repo=The-Last-Nature-s-Song&theme=tokyonight)](https://github.com/EarthlyEric/The-Last-Nature-s-Song)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EarthlyEric&repo=SuperMarioPackGUI&theme=tokyonight)](https://github.com/EarthlyEric/SuperMarioPackGUI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EarthlyEric&repo=301-redirector&theme=tokyonight)](https://github.com/EarthlyEric/301-redirector)
+# Big Poject(is Owner)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EarthlyEric&repo=Alice&theme=tokyonight)](https://github.com/EarthlyEric/Alice)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EarthlyEric&repo=Alice-RES&theme=tokyonight)](https://github.com/EarthlyEric/Alice-RES)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EarthlyEric&repo=Alice-DashBoard&theme=tokyonight)](https://github.com/EarthlyEric/Alice-DashBoard)
 
 # Best Repos(is Contributors)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=busybox11&repo=NowPlaying-for-Spotify&theme=tokyonight)](https://github.com/busybox11/NowPlaying-for-Spotify)
