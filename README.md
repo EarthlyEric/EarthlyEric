@@ -1,6 +1,5 @@
-# Hi, I’m @EarthlyEric
--  I’m 15 years old student,from Taiwan.
--  LOL
+# Hi, I’m EarthlyEric
+-  I’m 15 years old student,from Taiwan. 
 # Best Repos(is Owner)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EarthlyEric&repo=SIMPLE-CHAT&theme=tokyonight)](https://github.com/EarthlyEric/SIMPLE-CHAT)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EarthlyEric&repo=TYSH-News-WorkFlow&theme=tokyonight)](https://github.com/EarthlyEric/TYSH-News-WorkFlow)
