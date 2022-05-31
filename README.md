@@ -9,7 +9,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EarthlyEric&repo=301-redirector&theme=tokyonight)](https://github.com/EarthlyEric/301-redirector)
 # Big Poject(Owner)(Private)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EarthlyEric&repo=RavenCloud&theme=tokyonight)](https://github.com/EarthlyEric/RavenCloud)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EarthlyEric&repo=Alice&theme=tokyonight)](https://github.com/EarthlyEric/Alice)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EarthlyEric&repo=Alice-RES&theme=tokyonight)](https://github.com/EarthlyEric/Alice-RES)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EarthlyEric&repo=Alice-DashBoard&theme=tokyonight)](https://github.com/EarthlyEric/Alice-DashBoard)
 
