@@ -1,5 +1,6 @@
 # Hi, I’m EarthlyEric
--  I’m 17 years old student from Taiwan.
+-  I’m 18-year-old student from Taiwan.
+-  Real name is KAI JUN YANG
 
 # Contributors
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=busybox11&repo=NowPlaying-for-Spotify&theme=tokyonight)](https://github.com/busybox11/NowPlaying-for-Spotify)
