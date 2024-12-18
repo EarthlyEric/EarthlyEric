@@ -1,5 +1,5 @@
 # Hi, I’m EarthlyEric6 (KAI JUN YANG)
--  I’m 18-year-old student from Taiwan.
+-  I’m 19-year-old student from Taiwan.
 -  Real name is KAI JUN YANG
 
 # My Projects
